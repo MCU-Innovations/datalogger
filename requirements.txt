@@ -1,0 +1,1 @@
+-e git://github.com/MCU-Innovations/eculib.git#egg=eculib>=1.0.19
